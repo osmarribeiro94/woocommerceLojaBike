@@ -1,0 +1,5 @@
+Usuario: OR
+Senha: kt31ZcrU&OHsHNoU$o
+Email: osmar.ferreira@estudante.ifb.edu.br
+Login: https://localhost/lojabike/wp-admin/
+Site: https://localhost/lojabike/

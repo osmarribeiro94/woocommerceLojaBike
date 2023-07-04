@@ -1,0 +1,268 @@
+# Translation of Plugins - WCBoost &#8211; Variation Swatches - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - WCBoost &#8211; Variation Swatches - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-12 23:06:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - WCBoost &#8211; Variation Swatches - Stable (latest release)\n"
+
+#: includes/customizer/customizer.php:145
+msgid "Show the selected attribute's label"
+msgstr "Mostrar o rótulo do atributo selecionado"
+
+#: includes/admin/settings.php:140
+msgid "Theme Default"
+msgstr "Padrão do tema"
+
+#: includes/customizer/customizer.php:125
+msgid "Convert default dropdowns to buttons"
+msgstr "Converter lista suspensa padrão em botões"
+
+#: includes/customizer/customizer.php:105
+msgid "Enable tooltip"
+msgstr "Ativar dica de contexo"
+
+#: includes/customizer/customizer.php:85
+msgid "Set the default size of variation swatches."
+msgstr "Define o tamanho padrão dos seletores de variações."
+
+#: includes/customizer/customizer.php:84
+msgid "Swatches Size"
+msgstr "Tamanho dos seletores"
+
+#: includes/customizer/customizer.php:60
+msgid "Choose the shape style of variation swatches"
+msgstr "Escolha o estilo do formato dos seletores de variações"
+
+#: includes/customizer/customizer.php:59
+msgid "Swatches Shape"
+msgstr "Formato dos seletores"
+
+#: includes/customizer/customizer.php:40
+msgid "Some of these options can be overidden in product data settings."
+msgstr "Algumas destas opções podem ser sobrescritas nas configurações de dados do produto."
+
+#: includes/admin/term-meta.php:215
+msgid "Use image"
+msgstr "Usar imagem"
+
+#: includes/admin/term-meta.php:179
+msgid "Swatches Label"
+msgstr "Rótulo dos seletores"
+
+#: includes/admin/term-meta.php:178 includes/admin/term-meta.php:214
+msgid "Swatches Image"
+msgstr "Imagem dos seletores"
+
+#: includes/admin/term-meta.php:177
+msgid "Swatches Color"
+msgstr "Cor dos seletores"
+
+#: includes/admin/term-meta.php:136 includes/admin/term-meta.php:162
+msgid "This data will be used for variation swatches of variable products."
+msgstr "Esses dados serão usados para os seletores de variações de produtos variáveis."
+
+#: includes/admin/term-meta.php:97
+msgid "Button"
+msgstr "Botão"
+
+#: includes/admin/settings.php:133
+msgid "Square"
+msgstr "Quadrado"
+
+#: includes/admin/settings.php:132
+msgid "Rounded"
+msgstr "Arredondado"
+
+#: includes/admin/settings.php:131
+msgid "Round"
+msgstr "Redondo"
+
+#: includes/admin/product-data.php:489
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: includes/admin/product-data.php:479 includes/admin/term-meta.php:96
+msgid "Label"
+msgstr "Rótulo "
+
+#: includes/admin/product-data.php:475
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/admin/product-data.php:474 includes/admin/term-meta.php:217
+msgid "Upload"
+msgstr "Enviar"
+
+#: includes/admin/product-data.php:472 includes/admin/term-meta.php:95
+msgid "Image"
+msgstr "Imagem"
+
+#: includes/admin/product-data.php:468 includes/admin/term-meta.php:94
+msgid "Color"
+msgstr "Cor"
+
+#: includes/admin/product-data.php:461
+msgid "Name"
+msgstr "Nome"
+
+#: includes/admin/product-data.php:457
+msgid "Add New Term"
+msgstr "Adicionar novo termo"
+
+#: includes/admin/product-data.php:454
+msgid "Close dialog"
+msgstr "Fechar caixa de diálogo"
+
+#: includes/admin/product-data.php:426
+msgid "Added successfully"
+msgstr "Adicionado com sucesso"
+
+#: includes/admin/product-data.php:418
+msgid "This term is already exists"
+msgstr "Este termo já existe"
+
+#: includes/admin/product-data.php:414
+msgid "Taxonomy is not exists"
+msgstr "A taxonomia não existe"
+
+#: includes/admin/product-data.php:406
+msgid "Not enough data"
+msgstr "Sem dados suficientes"
+
+#: includes/admin/product-data.php:402
+msgid "Wrong request"
+msgstr "Solicitação errada"
+
+#: includes/admin/product-data.php:319 includes/admin/term-meta.php:219
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/admin/product-data.php:318
+msgid "Delete Image"
+msgstr "Excluir imagem"
+
+#: includes/admin/product-data.php:316
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/admin/product-data.php:202
+msgid "Height"
+msgstr "Altura"
+
+#: includes/admin/product-data.php:201
+msgid "Width"
+msgstr "Largura"
+
+#: includes/admin/product-data.php:195
+msgid "Custom"
+msgstr "Personalizado"
+
+#: includes/admin/product-data.php:191
+msgid "Size"
+msgstr "Tamanho"
+
+#: includes/admin/product-data.php:178
+msgid "The default shape is: %s"
+msgstr "O formato padrão é: %s"
+
+#: includes/admin/product-data.php:177
+msgid "Shape"
+msgstr "Formato"
+
+#: includes/admin/product-data.php:166 includes/admin/product-data.php:180
+#: includes/admin/product-data.php:194
+msgid "Default"
+msgstr "Padrão"
+
+#: includes/admin/product-data.php:164
+msgid "The default type is: %s"
+msgstr "O tipo padrão é: %s"
+
+#: includes/admin/product-data.php:163
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/admin/product-data.php:152
+msgid "Click to toggle"
+msgstr "Clique para alternar"
+
+#: includes/admin/product-data.php:105
+msgid "Swatches"
+msgstr "Seletores"
+
+#: includes/admin/product-data.php:91
+msgid "Add new"
+msgstr "Adicionar novo"
+
+#: includes/admin/product-data.php:90
+msgid "Select none"
+msgstr "Não selecionar nada"
+
+#: includes/admin/product-data.php:89
+msgid "Select all"
+msgstr "Selecionar tudo"
+
+#: includes/admin/product-data.php:72
+msgid "Select terms"
+msgstr "Selecionar termos"
+
+#. translators: %s: image URL
+#: includes/admin/backup.php:531
+msgid "Unable to use image \"%s\"."
+msgstr "Não é possível usar a imagem \"%s\"."
+
+#. translators: %s: image URL
+#: includes/admin/backup.php:522
+msgid "Not able to attach \"%s\"."
+msgstr "Não é possível anexar \"%s\"."
+
+#: includes/admin/backup.php:243 includes/admin/backup.php:257
+msgid "Attributes Swatches"
+msgstr "Seletores de atributos"
+
+#: includes/admin/backup.php:242 includes/admin/backup.php:256
+#: includes/customizer/customizer.php:39
+msgid "Variation Swatches"
+msgstr "Seletores de variações"
+
+#: includes/admin/backup.php:91
+msgid "All attribute types have been restored."
+msgstr "Todos os tipos de atributos foram restaurados."
+
+#: includes/admin/backup.php:82
+msgid "Ignore"
+msgstr "Ignorar"
+
+#: includes/admin/backup.php:81
+msgid "Restore attributes"
+msgstr "Restaurar atributos"
+
+#: includes/admin/backup.php:78
+msgid "Found a backup of your attributes type. This backup was generated at %s."
+msgstr "Um backup dos seus tipos de atributos foi encontrado. Este backup foi gerado em %s."
+
+#. Author URI of the plugin
+msgid "https://wcboost.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://wcboost.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the plugin
+msgid "WCBoost"
+msgstr "WCBoost"
+
+#. Description of the plugin
+msgid "A WooCommerce extension that converts default variation dropdowns to beatiful and user-friendly swatches."
+msgstr "Uma extensão para WooCommerce que converte as listas suspensas de variações padrões em seletores bonitos e amigáveis."
+
+#. Plugin URI of the plugin
+msgid "https://wcboost.com/plugin/product-variation-swatches/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://wcboost.com/plugin/product-variation-swatches/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#. Plugin Name of the plugin
+msgid "WCBoost - Variation Swatches"
+msgstr "WCBoost - Variation Swatches"
